@@ -25,11 +25,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/Gelvazio/app-desktop/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Gelvazio/app-desktop?style=for-the-badge">
   </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge">
-   <a href="https://github.com/Gelvazio/app-desktop/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Gelvazio/app-desktop?style=for-the-badge">
-  </a>
 </p>
 
 <h3 align="center">
@@ -69,22 +64,18 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ➕ Como contribuir
 - Primeiramente deixe uma ⭐;
-- Faça um fork deste repositório;
+- Faça um fork de qualquer repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Após o merge da sua PR você pode deletar sua branch por conta própria!
 
-## :memo: Licença
-
-This project is under the MIT license. See the [LICENSE](https://github.com/Gelvazio/app-desktop/LICENSE) for details.
-
 ## 📧 Contato  
  <h4>Gostou do Projeto e quer conversar sobre? Me chama pra gente trocar uma idéia! </h4>  
   <p>
     <a href="https://br.linkedin.com/in/gelvaziocamargo/">
-      <img src="https://github.com/Gelvaziop/app-desktop/blob/master/assets/Linkedin.png?raw=true" width=10%/> 
+      <img src="https://github.com/Gelvazio/app-desktop/blob/master/assets/Linkedin.png?raw=true" width=10%/> 
       </a>
   </p>
 <p>
