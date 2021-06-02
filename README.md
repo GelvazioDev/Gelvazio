@@ -72,7 +72,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 Após o merge da sua PR você pode deletar sua branch por conta própria!
 
 ## 📧 Contato  
- <h4>Gostou do Projeto e quer conversar sobre? Me chama pra gente trocar uma idéia! </h4>  
+ <h4>Gostou de algum Projeto e quer conversar sobre? Me chama pra gente trocar uma idéia! </h4>  
   <p>
     <a href="https://br.linkedin.com/in/gelvaziocamargo/">
       <img src="https://github.com/Gelvazio/app-desktop/blob/main/assets/Linkedin.png?raw=true" width=10%/> 
@@ -80,19 +80,6 @@ Após o merge da sua PR você pode deletar sua branch por conta própria!
   </p>
 <p>
 </p>
-
-Made with ♥ by Gelvazio Camargo 👋 
-
-# PARTE NOVA STATUS GITHUB
-
-### Hey you! Welcome to my place! 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working at <img width=64 src="https://i.giphy.com/media/ZaWp7ALLaZW9ECJ5bc/source.gif" alt="IBM" />
-- 💬 Ask me about Node, React, Javascript, Typescript
-- 🌱 I’m currently learning Typescript
-- 📫 How to reach me: https://www.linkedin.com/in/gelvaziocamargo/
 
 <hr>
 
