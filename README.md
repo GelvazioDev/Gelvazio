@@ -16,7 +16,7 @@
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 ## 📧 Contato  
- <h4>Gostou de algum Projeto e quer conversar sobre? Me chama pra gente trocar uma idéia! </h4>  
+ <h4>Gostou de algum Projeto e quer conversar sobre?<br> Me chama pra gente trocar uma idéia! </h4>  
   <p>
     <a href="https://br.linkedin.com/in/gelvaziocamargo/">
       <img src="https://github.com/Gelvazio/app-desktop/blob/main/assets/Linkedin.png?raw=true" width=10%/> 
