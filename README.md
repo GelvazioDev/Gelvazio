@@ -15,8 +15,6 @@
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `git push origin minha-feature`.
 
-Após o merge da sua PR você pode deletar sua branch por conta própria!
-
 ## 📧 Contato  
  <h4>Gostou de algum Projeto e quer conversar sobre? Me chama pra gente trocar uma idéia! </h4>  
   <p>
