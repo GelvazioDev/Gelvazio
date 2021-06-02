@@ -75,7 +75,7 @@ Após o merge da sua PR você pode deletar sua branch por conta própria!
  <h4>Gostou do Projeto e quer conversar sobre? Me chama pra gente trocar uma idéia! </h4>  
   <p>
     <a href="https://br.linkedin.com/in/gelvaziocamargo/">
-      <img src="https://github.com/Gelvazio/app-desktop/blob/master/assets/Linkedin.png?raw=true" width=10%/> 
+      <img src="https://github.com/Gelvazio/app-desktop/blob/main/assets/Linkedin.png?raw=true" width=10%/> 
       </a>
   </p>
 <p>
