@@ -1,9 +1,8 @@
 
 <p align="center" style="display: flex; align-items: center; justify-content: space-around">
-<img width=600 src="https://github-readme-stats.vercel.app/api?username=Gelvazio&theme=blueberry&show_icons=true" />
+<img width=600 src="https://github-readme-stats.vercel.app/api?username=Gelvazio&theme=blueberry&show_icons=true&hide_title=true" />
  
-                    https://github-readme-stats.vercel.app/api?username=radaelilucca&show_icons=true&hide_border=false&theme=tokyonight&hide_title=true
-<img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=Gelvazio&show_icons=true&theme=blueberry&hide_border=false&cache_seconds=1800&locale=pt-Br" alt="Gelvazio Camargo" />
+<img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=Gelvazio&show_icons=true&theme=blueberry&hide_border=false&hide_title=true&locale=pt-Br" alt="Gelvazio Camargo" />
 
 </p>
 
