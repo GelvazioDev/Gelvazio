@@ -8,7 +8,7 @@
 
 <hr>
 
-## ➕ Como contribuir
+## ➕ Como contribuir.
 - Primeiramente deixe uma ⭐;
 - Faça um fork de qualquer repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
